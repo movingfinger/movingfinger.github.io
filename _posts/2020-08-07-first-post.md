@@ -1,11 +1,11 @@
 ---
-title: "Begin github.io blog"
-excerpt: "I started to use github.io, Github Blog service"
+title:  "Begin github.io blog"
+excerpt:  "I started to use github.io, Github Blog service"
 
 categories:
-	- Blog
+  - Blog
 tags:
-	- Blog
+  - Blog
 last_modified_at: 2020-08-07-13T08:06:00-05:00
 ---
 
